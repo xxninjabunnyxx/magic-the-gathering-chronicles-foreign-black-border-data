@@ -1,0 +1,102 @@
+---
+object: card
+id: '041591b9-8eae-4c47-97aa-bb0a59b3f6a4'
+oracle_id: 94fac5fe-97d5-4c12-a80c-8efff9d853ae
+multiverse_ids: []
+name: Blood Moon
+printed_name: 血染めの月
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/041591b9-8eae-4c47-97aa-bb0a59b3f6a4
+scryfall_uri: https://scryfall.com/card/bchr/46/ja/%E8%A1%80%E6%9F%93%E3%82%81%E3%81%AE%E6%9C%88?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.jpg?1562895787
+  normal: https://cards.scryfall.io/normal/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.jpg?1562895787
+  large: https://cards.scryfall.io/large/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.jpg?1562895787
+  png: https://cards.scryfall.io/png/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.png?1562895787
+  art_crop: https://cards.scryfall.io/art_crop/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.jpg?1562895787
+  border_crop: https://cards.scryfall.io/border_crop/front/0/4/041591b9-8eae-4c47-97aa-bb0a59b3f6a4.jpg?1562895787
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: Nonbasic lands are Mountains.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: banned
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/041591b9-8eae-4c47-97aa-bb0a59b3f6a4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94fac5fe-97d5-4c12-a80c-8efff9d853ae&unique=prints
+collector_number: '46'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Wänerstrand
+artist_ids:
+- c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+illustration_id: f50c49fb-a534-48f0-8942-9a5dd3ad3960
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 945
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blood+Moon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blood+Moon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blood+Moon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Blood+Moon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blood+Moon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Moon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

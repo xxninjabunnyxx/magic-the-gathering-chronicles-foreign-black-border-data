@@ -1,0 +1,107 @@
+---
+object: card
+id: a6f43c9c-4815-4d37-ac56-7ff474b906d2
+oracle_id: 72e1a239-11a7-4dbe-b093-65d395e3ccc9
+multiverse_ids: []
+name: Dance of Many
+printed_name: あまたの舞い
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/a6f43c9c-4815-4d37-ac56-7ff474b906d2
+scryfall_uri: https://scryfall.com/card/bchr/17/ja/%E3%81%82%E3%81%BE%E3%81%9F%E3%81%AE%E8%88%9E%E3%81%84?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.jpg?1681080705
+  normal: https://cards.scryfall.io/normal/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.jpg?1681080705
+  large: https://cards.scryfall.io/large/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.jpg?1681080705
+  png: https://cards.scryfall.io/png/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.png?1681080705
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.jpg?1681080705
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a6f43c9c-4815-4d37-ac56-7ff474b906d2.jpg?1681080705
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: |-
+  When Dance of Many enters the battlefield, create a token that's a copy of target nontoken creature.
+  When Dance of Many leaves the battlefield, exile the token.
+  When the token leaves the battlefield, sacrifice Dance of Many.
+  At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a6f43c9c-4815-4d37-ac56-7ff474b906d2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A72e1a239-11a7-4dbe-b093-65d395e3ccc9&unique=prints
+collector_number: '17'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: '09faea16-c4c2-4eeb-81bb-bb342c7e49f6'
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9690
+penny_rank: 5476
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dance+of+Many&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dance+of+Many&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dance+of+Many
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Dance+of+Many&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dance+of+Many&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dance+of+Many&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

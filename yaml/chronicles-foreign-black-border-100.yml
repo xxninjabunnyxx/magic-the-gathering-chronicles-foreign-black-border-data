@@ -1,0 +1,101 @@
+---
+object: card
+id: 565eeb7e-c342-4b46-8125-bbadb8e4a572
+oracle_id: 50a1c14a-003f-424b-bb8e-2e2d51465a90
+multiverse_ids: []
+name: Horn of Deafening
+printed_name: 鼓膜破りの角笛
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/565eeb7e-c342-4b46-8125-bbadb8e4a572
+scryfall_uri: https://scryfall.com/card/bchr/100/ja/%E9%BC%93%E8%86%9C%E7%A0%B4%E3%82%8A%E3%81%AE%E8%A7%92%E7%AC%9B?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.jpg?1681080827
+  normal: https://cards.scryfall.io/normal/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.jpg?1681080827
+  large: https://cards.scryfall.io/large/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.jpg?1681080827
+  png: https://cards.scryfall.io/png/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.png?1681080827
+  art_crop: https://cards.scryfall.io/art_crop/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.jpg?1681080827
+  border_crop: https://cards.scryfall.io/border_crop/front/5/6/565eeb7e-c342-4b46-8125-bbadb8e4a572.jpg?1681080827
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: "{2}, {T}: Prevent all combat damage that would be dealt by target creature
+  this turn."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/565eeb7e-c342-4b46-8125-bbadb8e4a572/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50a1c14a-003f-424b-bb8e-2e2d51465a90&unique=prints
+collector_number: '100'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: f6b13882-89ec-4dc5-9e6f-6a8f523d0425
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20997
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Horn+of+Deafening&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Horn+of+Deafening&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Horn+of+Deafening
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Horn+of+Deafening&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Horn+of+Deafening&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Horn+of+Deafening&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

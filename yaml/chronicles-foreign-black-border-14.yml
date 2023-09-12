@@ -1,0 +1,107 @@
+---
+object: card
+id: e6473beb-f2be-495e-a539-8938e838a4ef
+oracle_id: 5fc1f04a-2c39-4b3a-b62e-6e30c3d8a583
+multiverse_ids: []
+name: Witch Hunter
+printed_name: 魔女狩り師
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/e6473beb-f2be-495e-a539-8938e838a4ef
+scryfall_uri: https://scryfall.com/card/bchr/14/ja/%E9%AD%94%E5%A5%B3%E7%8B%A9%E3%82%8A%E5%B8%AB?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.jpg?1562941220
+  normal: https://cards.scryfall.io/normal/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.jpg?1562941220
+  large: https://cards.scryfall.io/large/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.jpg?1562941220
+  png: https://cards.scryfall.io/png/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.png?1562941220
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.jpg?1562941220
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6473beb-f2be-495e-a539-8938e838a4ef.jpg?1562941220
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Creature — Human Cleric
+oracle_text: |-
+  {T}: Witch Hunter deals 1 damage to target player or planeswalker.
+  {1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6473beb-f2be-495e-a539-8938e838a4ef/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5fc1f04a-2c39-4b3a-b62e-6e30c3d8a583&unique=prints
+collector_number: '14'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 1d2217c2-782d-4a85-a779-1eaeeb38c7a6
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18795
+penny_rank: 14597
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Witch+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Witch+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Witch+Hunter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Witch+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Witch+Hunter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Witch+Hunter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

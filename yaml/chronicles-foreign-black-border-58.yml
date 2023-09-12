@@ -1,0 +1,107 @@
+---
+object: card
+id: 35c0fdda-15e2-41a2-8080-cc182d5c9061
+oracle_id: cee3d8e5-f26f-4f47-8a7b-9ac07ebf9025
+multiverse_ids: []
+name: Cat Warriors
+printed_name: 猫族の戦士
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/35c0fdda-15e2-41a2-8080-cc182d5c9061
+scryfall_uri: https://scryfall.com/card/bchr/58/ja/%E7%8C%AB%E6%97%8F%E3%81%AE%E6%88%A6%E5%A3%AB?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.jpg?1562905868
+  normal: https://cards.scryfall.io/normal/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.jpg?1562905868
+  large: https://cards.scryfall.io/large/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.jpg?1562905868
+  png: https://cards.scryfall.io/png/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.png?1562905868
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.jpg?1562905868
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/35c0fdda-15e2-41a2-8080-cc182d5c9061.jpg?1562905868
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Creature — Cat Warrior
+oracle_text: Forestwalk (This creature can't be blocked as long as defending player
+  controls a Forest.)
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Landwalk
+- Forestwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/35c0fdda-15e2-41a2-8080-cc182d5c9061/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acee3d8e5-f26f-4f47-8a7b-9ac07ebf9025&unique=prints
+collector_number: '58'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: 2ffd301f-8435-4369-8d3c-1fde13c95fe1
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18521
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cat+Warriors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cat+Warriors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cat+Warriors
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Cat+Warriors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat+Warriors&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat+Warriors&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

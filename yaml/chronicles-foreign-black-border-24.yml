@@ -1,0 +1,103 @@
+---
+object: card
+id: 267c8764-6d3c-42cf-aa72-940c1303bd5c
+oracle_id: 4158f397-4ee4-4f53-90f2-3b64bfe4f9b8
+multiverse_ids: []
+name: Recall
+printed_name: 回想
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/267c8764-6d3c-42cf-aa72-940c1303bd5c
+scryfall_uri: https://scryfall.com/card/bchr/24/ja/%E5%9B%9E%E6%83%B3?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.jpg?1600199691
+  normal: https://cards.scryfall.io/normal/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.jpg?1600199691
+  large: https://cards.scryfall.io/large/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.jpg?1600199691
+  png: https://cards.scryfall.io/png/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.png?1600199691
+  art_crop: https://cards.scryfall.io/art_crop/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.jpg?1600199691
+  border_crop: https://cards.scryfall.io/border_crop/front/2/6/267c8764-6d3c-42cf-aa72-940c1303bd5c.jpg?1600199691
+mana_cost: "{X}{X}{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Discard X cards, then return a card from your graveyard to your hand
+  for each card discarded this way. Exile Recall.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/267c8764-6d3c-42cf-aa72-940c1303bd5c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4158f397-4ee4-4f53-90f2-3b64bfe4f9b8&unique=prints
+collector_number: '24'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: d727d509-724a-40e8-980d-36f8ab1d1238
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10634
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Recall&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Recall&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Recall
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Recall&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Recall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Recall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

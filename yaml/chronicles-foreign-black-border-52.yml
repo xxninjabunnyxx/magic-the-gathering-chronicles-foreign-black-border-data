@@ -1,0 +1,103 @@
+---
+object: card
+id: 8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d
+oracle_id: 82d58f2d-66a4-4154-9826-01ca8e8d32d0
+multiverse_ids: []
+name: Land's Edge
+printed_name: 大地の刃
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d
+scryfall_uri: https://scryfall.com/card/bchr/52/ja/%E5%A4%A7%E5%9C%B0%E3%81%AE%E5%88%83?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.jpg?1681080807
+  normal: https://cards.scryfall.io/normal/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.jpg?1681080807
+  large: https://cards.scryfall.io/large/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.jpg?1681080807
+  png: https://cards.scryfall.io/png/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.png?1681080807
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.jpg?1681080807
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d.jpg?1681080807
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: World Enchantment
+oracle_text: 'Discard a card: If the discarded card was a land card, Land''s Edge
+  deals 2 damage to target player or planeswalker. Any player may activate this ability.'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8b1fce4c-5bb1-4af8-bbfe-f60c6940fc8d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82d58f2d-66a4-4154-9826-01ca8e8d32d0&unique=prints
+collector_number: '52'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: aa465231-75eb-4bba-9590-75fd48d3d477
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17004
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Land%27s+Edge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Land%27s+Edge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Land%27s+Edge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Land%27s+Edge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Land%27s+Edge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Land%27s+Edge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

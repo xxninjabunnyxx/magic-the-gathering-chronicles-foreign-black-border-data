@@ -1,0 +1,108 @@
+---
+object: card
+id: b8571901-a2e9-428b-a022-13e38c84bf28
+oracle_id: f25351e3-539b-4bbc-b92d-6480acf4d722
+multiverse_ids: []
+name: City of Brass
+printed_name: 真鍮の都
+lang: ja
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/b8571901-a2e9-428b-a022-13e38c84bf28
+scryfall_uri: https://scryfall.com/card/bchr/112/ja/%E7%9C%9F%E9%8D%AE%E3%81%AE%E9%83%BD?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.jpg?1600199677
+  normal: https://cards.scryfall.io/normal/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.jpg?1600199677
+  large: https://cards.scryfall.io/large/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.jpg?1600199677
+  png: https://cards.scryfall.io/png/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.png?1600199677
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.jpg?1600199677
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b8571901-a2e9-428b-a022-13e38c84bf28.jpg?1600199677
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Whenever City of Brass becomes tapped, it deals 1 damage to you.
+  {T}: Add one mana of any color.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d672ed60-4161-4b21-874a-584b13b2fc35
+set: bchr
+set_name: Chronicles Foreign Black Border
+set_type: masters
+set_uri: https://api.scryfall.com/sets/d672ed60-4161-4b21-874a-584b13b2fc35
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abchr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bchr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b8571901-a2e9-428b-a022-13e38c84bf28/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af25351e3-539b-4bbc-b92d-6480acf4d722&unique=prints
+collector_number: '112'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: a5d6c290-9ca1-44e4-ac8f-5693aa19bbda
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 92
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=City+of+Brass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=City+of+Brass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=City+of+Brass
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=City+of+Brass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=City+of+Brass&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=City+of+Brass&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
